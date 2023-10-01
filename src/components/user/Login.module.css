@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    
+}
+.label{
+    font-size: 1rem;
+    margin-top:1rem ;
+    margin-bottom: 1rem;
+}
+.btn{
+    padding: 0.5rem;
+    background-color: green;
+    border: none;
+    font-size: 1rem;
+    color:white;
+    border-radius: 0.3rem;
+}
